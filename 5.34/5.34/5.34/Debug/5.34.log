@@ -1,0 +1,5 @@
+﻿  Main.c
+d:\c_code\ch3_hw2\5.34\5.34\5.34\main.c(7): warning C4215: 使用非標準的擴充: long float
+d:\c_code\ch3_hw2\5.34\5.34\5.34\main.c(9): warning C4477: 'scanf_s' : 格式字串 '%f' 需要 'float *' 類型的引數，但 variadic 引數 2 的類型為 'double *'
+  d:\c_code\ch3_hw2\5.34\5.34\5.34\main.c(9): note: 請考慮在格式字串中使用 '%lf'
+  5.34.vcxproj -> D:\C_code\CH3_Hw2\5.34\5.34\Debug\5.34.exe
